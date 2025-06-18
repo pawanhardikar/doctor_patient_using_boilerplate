@@ -1,4 +1,5 @@
 #include "Patient.h"
+#include <algorithm>
 
 Patient::Patient(const std::string& name, int age, const std::string& ailment)
     : name(name), age(age), ailment(ailment) {}

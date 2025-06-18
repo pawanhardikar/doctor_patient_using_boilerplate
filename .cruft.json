@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/pawanhardikar/cpp-devops-boilerplate.git",
-  "commit": "794e53db412cfd8c570f9ea40ead9243527a8d9a",
+  "commit": "a93ab936496110871d64509fbee1fe76d9253790",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -9,7 +9,7 @@
       "project_description": "Doctor Patient Creation and Appointment created using cpp devops boilerplate template",
       "author_name": "Pawan V Hardikar",
       "_template": "https://github.com/pawanhardikar/cpp-devops-boilerplate.git",
-      "_commit": "794e53db412cfd8c570f9ea40ead9243527a8d9a"
+      "_commit": "a93ab936496110871d64509fbee1fe76d9253790"
     }
   },
   "directory": "cpp-cmake-template"

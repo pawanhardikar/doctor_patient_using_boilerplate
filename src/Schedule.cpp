@@ -1,4 +1,5 @@
 #include "Schedule.h"
+#include <algorithm>
 
 Schedule::Schedule(const std::string& date, const std::string& time)
     : date(date), time(time) {}

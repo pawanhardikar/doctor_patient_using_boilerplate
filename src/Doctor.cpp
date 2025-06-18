@@ -1,4 +1,5 @@
 #include "Doctor.h"
+#include <algorithm>
 
 Doctor::Doctor(const std::string& name, const std::string& specialization)
     : name(name), specialization(specialization) {}

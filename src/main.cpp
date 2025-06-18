@@ -4,6 +4,7 @@
 #include "Patient.h"
 #include "Booking.h"
 #include "Schedule.h"
+#include <algorithm>
 
 void createDoctor(std::vector<Doctor>& doctors) {
     std::string name, specialization;

@@ -1,4 +1,5 @@
 #include "CSVHandler.h"
+#include <algorithm>
 
 std::vector<std::vector<std::string>> CSVHandler::readCSV(const std::string& filename) {
     std::ifstream file(filename);
