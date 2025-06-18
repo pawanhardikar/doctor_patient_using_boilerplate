@@ -1,4 +1,5 @@
 #include "Booking.h"
+#include <algorithm>
 
 Booking::Booking(const Doctor& doctor, const Patient& patient, const Schedule& schedule)
     : doctor(doctor), patient(patient), schedule(schedule) {}
